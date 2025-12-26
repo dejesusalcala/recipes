@@ -1,7 +1,6 @@
 ---
 title: "Chocolate Tres Leches Cake"
 format: html
-render: false
 ---
 
 ## Ingredients

@@ -4,11 +4,14 @@ project:
 
 
 book:
-  title: "Baking Recipes"
+  title: "My Recipes"
   author: "Angel Alcala Ruiz"
   date: "10/16/2024"
   chapters:
     - index.qmd
+    - part: "COOKING"
+      chapters: 
+        - garlic-mushrooms.qmd
     - part: "COOKIES"
       chapters: 
         - chocolate-chip-cookies.qmd
@@ -17,7 +20,6 @@ book:
         - oatmeal-raisin-cookies.qmd
     - part: "BARS & CAKES"
       chapters: 
-        - chocolate-tres-leches.qmd
         - pumpkin-bars.qmd
         - tres-leches.qmd
     - part: "BREADS"
