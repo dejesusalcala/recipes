@@ -22,6 +22,7 @@ book:
       chapters: 
         - pumpkin-bars.qmd
         - tres-leches.qmd
+        - tiramisu.qmd
     - part: "BREADS"
       chapters:
         - pumpkin-bread.qmd
