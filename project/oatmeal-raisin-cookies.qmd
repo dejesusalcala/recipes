@@ -40,4 +40,4 @@ format: html
 
 7. If baking from
     - Fresh, 350 for about 10 minutes 
-    - Frozen 335-340 for about 17 minutes 
+    - Frozen 335-340 for about 17 minutes
