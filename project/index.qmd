@@ -4,4 +4,4 @@ format: html
 
 # Preface {.unnumbered}
 
-In this book I want to share some of my personal favorite recipes. 
+In this book I want to share some of my personal favorite recipes.
