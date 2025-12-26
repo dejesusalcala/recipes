@@ -20,3 +20,8 @@ format: html
 | Ginger (optional) | $\frac{1}{4}$ | $\frac{1}{2}$ tsp |
 
 ## Directions
+
+1. Preheat oven to 350℉.
+2. Cut and slice mushrooms to desired width.
+3. Combine and mix all ingredients well.
+4. Transfer to a sheet pan and roast for about 20 minutes or until internal temperature is between 165℉ - 170℉.
