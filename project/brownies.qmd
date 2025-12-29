@@ -9,7 +9,7 @@ format: html
 | Unsalted butter | 170 grams (melted or browned) |
 | Cacao | 50 grams |
 | Chocolate (70% or semisweet) | 113 grams |
-| Instant coffee (optional) | $\frac{1}{2}$ tsp |
+| Instant coffee *(optional)* | $\frac{1}{2}$ tsp |
 | **Wet Ingredients** | |
 | Eggs | 2 large + 1 egg yolk |
 | White sugar | 150 grams |
