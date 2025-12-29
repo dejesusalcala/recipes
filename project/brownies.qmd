@@ -6,9 +6,9 @@ format: html
 | Ingredients | Amount |
  --- | --- |
 | **Chocolate Mixture** | | 
-| Unsalted butter | 170 grams (melted or browned) |
+| Unsalted butter | 170 grams *(melted or browned)* |
 | Cacao | 50 grams |
-| Chocolate (70% or semisweet) | 113 grams |
+| Chocolate *(70% dark or semisweet)* | 113 grams |
 | Instant coffee *(optional)* | $\frac{1}{2}$ tsp |
 | **Wet Ingredients** | |
 | Eggs | 2 large + 1 egg yolk |
@@ -18,4 +18,4 @@ format: html
 | **Dry Ingredients** | |
 | Flour | 125 grams |
 | **Mix-ins** | |
-| Chocolate (70% or semisweet) | 120 grams |
+| Chocolate *(70% or semisweet)* | 120 grams |
