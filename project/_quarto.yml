@@ -1,6 +1,6 @@
 project:
   type: book
-  output-dir: ../docs
+  output-dir: docs
 
 
 book:
@@ -20,6 +20,7 @@ book:
         - oatmeal-raisin-cookies.qmd
     - part: "BARS & CAKES"
       chapters: 
+        - brownies.qmd
         - pumpkin-bars.qmd
         - tres-leches.qmd
         - tiramisu.qmd
