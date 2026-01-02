@@ -19,7 +19,7 @@ format: html
 | Egg | 1 | 2 |
 | Vanilla extract | 1 teaspoon | 2 teaspoons |
 | **Mix-ins** | | |
-| Chocolate chips (semi-sweet of dark) | 175 grams | 350 grams |
+| Chocolate chips *(semi-sweet of dark)* | 175 grams | 350 grams |
 
 ## Directions
 

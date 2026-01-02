@@ -22,7 +22,7 @@ format: html
 | **Mix-ins** | |
 | Rolled oats | 135 grams |
 | Raisins  | 150 grams |
-| Nuts (Pecans or Walnuts) | 50-75 grams |
+| Nuts *(pecans or walnuts)* | 50-75 grams |
 
 ## Directions
 
